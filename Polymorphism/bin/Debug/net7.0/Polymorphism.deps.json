@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Polymorphism/1.0.0": {
+        "dependencies": {
+          "Microsoft.DotNet.PlatformAbstractions": "5.0.0-preview.5.20278.1"
+        },
+        "runtime": {
+          "Polymorphism.dll": {}
+        }
+      },
+      "Microsoft.DotNet.PlatformAbstractions/5.0.0-preview.5.20278.1": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.DotNet.PlatformAbstractions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.27801"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.DotNet.PlatformAbstractions/5.0.0-preview.5.20278.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vjHO72XmJdmdFUF/YWvJwetuaop38vljZ7U6icj8HiRhEqJSEBBPvYjdoxBDYW5/bJk+4GAXq18yS4L5XKD2UA==",
+      "path": "microsoft.dotnet.platformabstractions/5.0.0-preview.5.20278.1",
+      "hashPath": "microsoft.dotnet.platformabstractions.5.0.0-preview.5.20278.1.nupkg.sha512"
+    }
+  }
+}

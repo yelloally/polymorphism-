@@ -1,0 +1,17 @@
+/Users/yellobunny/Projects/c_sharp/Polymorphism/bin/Debug/net7.0/Polymorphism
+/Users/yellobunny/Projects/c_sharp/Polymorphism/bin/Debug/net7.0/Polymorphism.deps.json
+/Users/yellobunny/Projects/c_sharp/Polymorphism/bin/Debug/net7.0/Polymorphism.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/Polymorphism/bin/Debug/net7.0/Polymorphism.dll
+/Users/yellobunny/Projects/c_sharp/Polymorphism/bin/Debug/net7.0/Polymorphism.pdb
+/Users/yellobunny/Projects/c_sharp/Polymorphism/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/yellobunny/Projects/c_sharp/Polymorphism/obj/Debug/net7.0/Polymorphism.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/Polymorphism/obj/Debug/net7.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/Polymorphism/obj/Debug/net7.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/Polymorphism/obj/Debug/net7.0/Polymorphism.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/Polymorphism/obj/Debug/net7.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/Polymorphism/obj/Debug/net7.0/Polymorphism.csproj.CopyComplete
+/Users/yellobunny/Projects/c_sharp/Polymorphism/obj/Debug/net7.0/Polymorphism.dll
+/Users/yellobunny/Projects/c_sharp/Polymorphism/obj/Debug/net7.0/refint/Polymorphism.dll
+/Users/yellobunny/Projects/c_sharp/Polymorphism/obj/Debug/net7.0/Polymorphism.pdb
+/Users/yellobunny/Projects/c_sharp/Polymorphism/obj/Debug/net7.0/Polymorphism.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/Polymorphism/obj/Debug/net7.0/ref/Polymorphism.dll

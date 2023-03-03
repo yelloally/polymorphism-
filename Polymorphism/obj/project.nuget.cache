@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJdPtyii5/PXUtx/ZrBaUfJqASYTW94bwmiZmgImcTZu/b3iSCrBvuyRG8pBFBHfZw15+h6kyIT3WNC4dLc8FA==",
+  "success": true,
+  "projectFilePath": "/Users/yellobunny/Projects/c_sharp/Polymorphism/Polymorphism.csproj",
+  "expectedPackageFiles": [
+    "/Users/yellobunny/.nuget/packages/microsoft.dotnet.platformabstractions/5.0.0-preview.5.20278.1/microsoft.dotnet.platformabstractions.5.0.0-preview.5.20278.1.nupkg.sha512"
+  ],
+  "logs": []
+}
